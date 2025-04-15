@@ -1,0 +1,11 @@
+Flask==3.0.2
+requests==2.31.0
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+numpy==1.26.4
+librosa==0.10.1
+soundfile==0.12.1
+pandas==2.2.1
+supabase
+flask_cors
+dotenv
